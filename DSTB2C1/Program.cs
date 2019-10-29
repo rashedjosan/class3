@@ -7,6 +7,7 @@ namespace DSTB2C1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("this is git learn class!");
         }
     }
 }
