@@ -1,0 +1,11 @@
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\bin\Debug\netcoreapp3.0\DSTB2C1.exe
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\bin\Debug\netcoreapp3.0\DSTB2C1.deps.json
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\bin\Debug\netcoreapp3.0\DSTB2C1.runtimeconfig.json
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\bin\Debug\netcoreapp3.0\DSTB2C1.runtimeconfig.dev.json
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\bin\Debug\netcoreapp3.0\DSTB2C1.dll
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\bin\Debug\netcoreapp3.0\DSTB2C1.pdb
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\obj\Debug\netcoreapp3.0\DSTB2C1.csprojAssemblyReference.cache
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\obj\Debug\netcoreapp3.0\DSTB2C1.AssemblyInfoInputs.cache
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\obj\Debug\netcoreapp3.0\DSTB2C1.AssemblyInfo.cs
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\obj\Debug\netcoreapp3.0\DSTB2C1.dll
+C:\Users\Rashed\source\repos\DSTB2C1\DSTB2C1\obj\Debug\netcoreapp3.0\DSTB2C1.pdb
