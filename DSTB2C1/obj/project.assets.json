@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rashed\\source\\repos\\DSTB2C1\\DSTB2C1\\DSTB2C1.csproj",
+      "projectUniqueName": "C:\\Users\\Rashed\\source\\repos\\DSTB2C1\\class3\\DSTB2C1\\DSTB2C1.csproj",
       "projectName": "DSTB2C1",
-      "projectPath": "C:\\Users\\Rashed\\source\\repos\\DSTB2C1\\DSTB2C1\\DSTB2C1.csproj",
+      "projectPath": "C:\\Users\\Rashed\\source\\repos\\DSTB2C1\\class3\\DSTB2C1\\DSTB2C1.csproj",
       "packagesPath": "C:\\Users\\Rashed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rashed\\source\\repos\\DSTB2C1\\DSTB2C1\\obj\\",
+      "outputPath": "C:\\Users\\Rashed\\source\\repos\\DSTB2C1\\class3\\DSTB2C1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rashed\\AppData\\Roaming\\NuGet\\NuGet.Config",
